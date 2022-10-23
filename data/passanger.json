@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3,
+    "name": "Budi",
+    "gender": "Male",
+    "ticket": {
+      "airlineName": "Merak Indonesia",
+      "type": "Economy",
+      "origin": "Makasar",
+      "destination": "Jayapura",
+      "seatNumber": "D-2"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Rinta",
+    "gender": "Female",
+    "ticket": {
+      "airlineName": "Harapan Air",
+      "type": "VIP",
+      "origin": "Surabaya",
+      "destination": "Jakarta",
+      "seatNumber": "B-2"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ani",
+    "gender": "Female",
+    "ticket": {
+      "airlineName": "Harapan Air",
+      "type": "VIP",
+      "origin": "Surabaya",
+      "destination": "Jakarta",
+      "seatNumber": "B-2"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Dalton",
+    "gender": "Male",
+    "ticket": {
+      "airlineName": "Merak Indonesia",
+      "type": "Business",
+      "origin": "Jakarta",
+      "destination": "Bandung",
+      "seatNumber": "B-1"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dalton",
+    "gender": "Male",
+    "ticket": {
+      "airlineName": "Merak Indonesia",
+      "type": "Business",
+      "origin": "Jakarta",
+      "destination": "Bandung",
+      "seatNumber": "B-2"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Azam Kamil",
+    "gender": "Male",
+    "ticket": {
+      "airlineName": "Elang Air",
+      "type": "VIP",
+      "origin": "Aceh",
+      "destination": "Surabaya",
+      "seatNumber": "D-7"
+    }
+  }
+]

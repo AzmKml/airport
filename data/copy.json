@@ -1,0 +1,100 @@
+[
+    {
+      "id": 3,
+      "name": "Budi",
+      "gender": "Male",
+      "ticket": {
+        "airlineName": "Merak Indonesia",
+        "type": "Economy",
+        "origin": "Makasar",
+        "destination": "Jayapura",
+        "seatNumber": "D-2"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rinta",
+      "gender": "Female",
+      "ticket": {
+        "airlineName": "Harapan Air",
+        "type": "VIP",
+        "origin": "Surabaya",
+        "destination": "Jakarta",
+        "seatNumber": "B-2"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ani",
+      "gender": "Female",
+      "ticket": {
+        "airlineName": "Harapan Air",
+        "type": "VIP",
+        "origin": "Surabaya",
+        "destination": "Jakarta",
+        "seatNumber": "B-2"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Dalton",
+      "gender": "Male",
+      "ticket": {
+        "airlineName": "Merak Indonesia",
+        "type": "Business",
+        "origin": "Jakarta",
+        "destination": "Bandung",
+        "seatNumber": "B-1"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Dalton",
+      "gender": "Male",
+      "ticket": {
+        "airlineName": "Merak Indonesia",
+        "type": "Business",
+        "origin": "Jakarta",
+        "destination": "Bandung",
+        "seatNumber": "B-2"
+      }
+    }
+  ]
+  [
+    {
+        "flightNumber": 1,
+        "airlineName": "Merak Indonesia",
+        "origin": "Jakarta",       
+        "destination": "Bandung"
+    },
+    {
+        "flightNumber": 2,
+        "airlineName": "Simpati Air",
+        "origin": "Bali",
+        "destination": "Lombok"
+    },
+    {
+        "flightNumber": 3,
+        "airlineName": "Dewi Air",
+        "origin": "Surabaya",
+        "destination": "Batam"
+    },
+    {
+        "flightNumber": 4,
+        "airlineName": "Harapan Air",
+        "origin": "Surabaya",
+        "destination": "Jakarta"
+    },
+    {
+        "flightNumber": 5,
+        "airlineName": "Singa Air",
+        "origin": "Makasar",       
+        "destination": "Jayapura"
+    },
+    {
+        "flightNumber": 6,
+        "airlineName": "Elang Air",
+        "origin": "Aceh",       
+        "destination": "Surabaya"
+    }
+]
